@@ -8,11 +8,11 @@
 <body>
 <div align = "center">
     <div id = "Logon" >
-        <form action="${pageContext.request.contextPath}/logon.do">
+        <form action="${pageContext.request.contextPath}/logon.do" method="post">
             <p>Логин</p>
-            <input type="text">
+            <input type="text" name="name">
             <p>Пароль</p>
-            <input type="password">
+            <input type="password" name="password">
             <input type="submit" value="Войти">
         </form>
     </div>
