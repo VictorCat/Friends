@@ -3,7 +3,6 @@
   User: Денис
   Date: 29.04.14
   Time: 19:25
-  To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
@@ -11,6 +10,6 @@
     <title></title>
 </head>
 <body>
-
+    Вы вошли!
 </body>
 </html>
