@@ -5,6 +5,8 @@
     <title>Пользовательский интерфейс</title>
   </head>
   <body>
-    <p>Пользовательский интерфейс</p>
+    <p><a href="${pageContext.request.contextPath}/iDriver.do">Я водитель</a> </p>
+    <p><a href="${pageContext.request.contextPath}/iPassenger.do">Я пассажир</a> </p>
+    <p><a href="/adminpanel/">adminpanel</a> </p>
   </body>
 </html>
