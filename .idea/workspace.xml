@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5e79709-172a-4ad3-aa34-0d3ad3d5e5d4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdminPanel/web/WEB-INF/struts-config.xml" />
+    <list default="true" id="b5e79709-172a-4ad3-aa34-0d3ad3d5e5d4" name="Default" comment="Изменение настроек проекта&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdminPanel/src/panel/FormLogon.java" />
+      <change type="MOVED" beforePath="C:\Users\Денис\IdeaProjects\Friends\AdminPanel\web\panle.jsp" afterPath="$PROJECT_DIR$/AdminPanel/web/panel.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminPanel/AdminPanel.iml" afterPath="$PROJECT_DIR$/AdminPanel/AdminPanel.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/AdminPanel.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/AdminPanel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminPanel/src/panel/Logon.java" afterPath="$PROJECT_DIR$/AdminPanel/src/panel/Logon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UserInterface/UserInterface.iml" afterPath="$PROJECT_DIR$/UserInterface/UserInterface.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminPanel/web/index.jsp" afterPath="$PROJECT_DIR$/AdminPanel/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminPanel/web/WEB-INF/struts-config.xml" afterPath="$PROJECT_DIR$/AdminPanel/web/WEB-INF/struts-config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdminPanel/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/AdminPanel/web/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -40,8 +44,8 @@
         <option name="CONDITION_ENABLED" value="true" />
         <option name="CLASS_FILTERS_ENABLED" value="false" />
         <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -57,11 +61,73 @@
         <option name="CONDITION_ENABLED" value="true" />
         <option name="CLASS_FILTERS_ENABLED" value="false" />
         <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/action/Action.java" line="140" class="org.apache.struts.action.Action" package="org.apache.struts.action">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/action/Action.java" line="258" class="org.apache.struts.action.Action" package="org.apache.struts.action">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/action/Action.java" line="554" class="org.apache.struts.action.Action" package="org.apache.struts.action">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/action/Action.java" line="550" class="org.apache.struts.action.Action" package="org.apache.struts.action">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -71,19 +137,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdminPanel/web/index.jsp">
+      <file leaf-file-name="Action.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/action/Action.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="7" selection-start="591" selection-end="591" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="459">
+            <state line="97" column="0" selection-start="3912" selection-end="3912" vertical-scroll-proportion="0.0" vertical-offset="917" max-vertical-offset="9010">
+              <folding>
+                <element signature="e#4267#4268#0" expanded="true" />
+                <element signature="e#4363#4364#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateAction.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/chain/commands/servlet/CreateAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="79" column="0" selection-start="3115" selection-end="3115" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="1275">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AdminPanel/web/style.css">
+      <file leaf-file-name="AbstractCreateAction.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/chain/commands/AbstractCreateAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="1" selection-start="226" selection-end="226" vertical-scroll-proportion="0.35355285" vertical-offset="0" max-vertical-offset="577">
+            <state line="98" column="0" selection-start="3560" selection-end="3560" vertical-scroll-proportion="0.0" vertical-offset="1104" max-vertical-offset="1768">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Logon.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AdminPanel/src/panel/Logon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="0" selection-start="1055" selection-end="1055" vertical-scroll-proportion="0.7071057" vertical-offset="0" max-vertical-offset="577">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseAction.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Libraries/struts/extras/src/main/java/org/apache/struts/actions/BaseAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="43" selection-start="1216" selection-end="1216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FormLogon.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdminPanel/src/panel/FormLogon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="23" selection-start="165" selection-end="169" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+              <folding>
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="struts-config.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdminPanel/web/WEB-INF/struts-config.xml">
+          <provider editor-type-id="com.intellij.struts.diagram.DiagramEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="32" selection-start="429" selection-end="429" vertical-scroll-proportion="-8.84" vertical-offset="0" max-vertical-offset="408">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="struts-config.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WebProject/web/WEB-INF/struts-config.xml">
+          <provider editor-type-id="com.intellij.struts.diagram.DiagramEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="32" selection-start="303" selection-end="303" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="663">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdminPanel/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="25" selection-start="529" selection-end="529" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
               <folding />
             </state>
           </provider>
@@ -111,13 +252,17 @@
         <option value="$PROJECT_DIR$/UserInterface/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/AdminPanel/web/WEB-INF/Error.jsp" />
         <option value="$PROJECT_DIR$/AdminPanel/web/Error.jsp" />
-        <option value="$PROJECT_DIR$/AdminPanel/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/AdminPanel/web/WEB-INF/struts-config.xml" />
         <option value="$PROJECT_DIR$/UserInterface/web/index.jsp" />
         <option value="$PROJECT_DIR$/out/artifacts/AdminPanel/index.jsp" />
         <option value="$PROJECT_DIR$/AdminPanel/web/style.css" />
-        <option value="$PROJECT_DIR$/AdminPanel/web/index.jsp" />
         <option value="$PROJECT_DIR$/out/artifacts/AdminPanel/style.css" />
+        <option value="$PROJECT_DIR$/AdminPanel/web/panle.jsp" />
+        <option value="$PROJECT_DIR$/AdminPanel/src/panel/FormLogon.java" />
+        <option value="$PROJECT_DIR$/AdminPanel/web/WEB-INF/struts-config.xml" />
+        <option value="$PROJECT_DIR$/AdminPanel/web/index.jsp" />
+        <option value="$PROJECT_DIR$/AdminPanel/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/AdminPanel/src/panel/Logon.java" />
+        <option value="$PROJECT_DIR$/AdminPanel/src/panel/Hash.java" />
       </list>
     </option>
   </component>
@@ -176,101 +321,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Friends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Friends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserInterface" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Friends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserInterface" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Friends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserInterface" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Friends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdminPanel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Friends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdminPanel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Friends" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdminPanel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Production">
           <PATH>
@@ -290,6 +340,129 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Friends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Friends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Friends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Friends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Friends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Friends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdminPanel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Friends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdminPanel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Friends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdminPanel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Friends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdminPanel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="panel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,13 +478,15 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/AdminPanel/style.css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebProject/web/WEB-INF/web.xml" />
     <property name="FullScreen" value="false" />
     <property name="options.lastSelected" value="preferences.externalResources" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="LayoutCode.rearrangeEntriesJSP" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -666,7 +841,9 @@
       <workItem from="1398754198267" duration="164000" />
       <workItem from="1398754396477" duration="757000" />
       <workItem from="1398769927007" duration="666000" />
-      <workItem from="1398782357664" duration="2486000" />
+      <workItem from="1398782357664" duration="4955000" />
+      <workItem from="1398789338834" duration="2273000" />
+      <workItem from="1398796268630" duration="3455000" />
     </task>
     <task id="LOCAL-00001" summary="Добавлен заголовок">
       <created>1398595971966</created>
@@ -676,11 +853,15 @@
       <created>1398784822657</created>
       <updated>1398784822657</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Изменение настроек проекта">
+      <created>1398784882382</created>
+      <updated>1398784882382</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12053000" />
+    <option name="totallyTimeSpent" value="20250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -694,7 +875,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Struts Assistant" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Struts Assistant" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933258" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -708,7 +889,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.51970184" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20500532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -731,23 +912,21 @@
     </option>
     <MESSAGE value="Добавлен заголовок" />
     <MESSAGE value="Создана страница входа для админки.&#10;Создана таблица стилей.&#10;Создана страница ошибки." />
-    <option name="LAST_COMMIT_MESSAGE" value="Создана страница входа для админки.&#10;Создана таблица стилей.&#10;Создана страница ошибки." />
+    <MESSAGE value="Изменение настроек проекта" />
+    <option name="LAST_COMMIT_MESSAGE" value="Изменение настроек проекта" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UserInterface/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="61" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UserInterface/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="39" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="391">
@@ -762,18 +941,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminPanel/web/WEB-INF/struts-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AdminPanel/web/Error.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AdminPanel/web/index.jsp">
@@ -785,54 +955,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UserInterface/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="61" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserInterface/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="39" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="391">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminPanel/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="17" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminPanel/web/WEB-INF/struts-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.struts.diagram.DiagramEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminPanel/web/Error.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminPanel/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="23" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserInterface/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="61" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
-          <folding />
-        </state>
+        <state line="7" column="61" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UserInterface/web/WEB-INF/web.xml">
@@ -851,9 +974,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AdminPanel/web/Error.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AdminPanel/web/index.jsp">
@@ -865,79 +986,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UserInterface/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="61" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserInterface/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="39" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="391">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminPanel/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="17" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminPanel/web/Error.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminPanel/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="23" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserInterface/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="61" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserInterface/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="39" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="391">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminPanel/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="17" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminPanel/web/Error.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminPanel/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="23" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserInterface/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="61" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
-          <folding />
-        </state>
+        <state line="7" column="61" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UserInterface/web/WEB-INF/web.xml">
@@ -956,14 +1005,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UserInterface/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Libraries/struts/extras/src/main/java/org/apache/struts/actions/DispatchAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="22" selection-start="3919" selection-end="3919" vertical-scroll-proportion="0.33257142" vertical-offset="746" max-vertical-offset="5950" />
+        <state line="9" column="7" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="jar://C:/My program/Tomcat/apache-tomcat-7.0.52/lib/hibernate/required/hibernate-core-4.3.5.Final.jar!/org/hibernate/internal/SessionImpl.class">
@@ -986,36 +1028,9 @@
         <state line="175" column="19" selection-start="7356" selection-end="7356" vertical-scroll-proportion="-1.7074286" vertical-offset="1817" max-vertical-offset="44829" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../WebProject/web/WEB-INF/struts-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="32" selection-start="438" selection-end="546" vertical-scroll-proportion="0.6952965" vertical-offset="0" max-vertical-offset="663" />
-      </provider>
-      <provider editor-type-id="com.intellij.struts.diagram.DiagramEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminPanel/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="17" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminPanel/web/WEB-INF/struts-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.struts.diagram.DiagramEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AdminPanel/web/Error.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="374">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="374" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UserInterface/web/WEB-INF/web.xml">
@@ -1027,35 +1042,219 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UserInterface/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="49" selection-start="401" selection-end="401" vertical-scroll-proportion="0.33333334" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
+        <state line="9" column="49" selection-start="401" selection-end="401" vertical-scroll-proportion="0.33333334" vertical-offset="0" max-vertical-offset="459" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/out/artifacts/AdminPanel/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="8" selection-start="565" selection-end="565" vertical-scroll-proportion="0.6296296" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
+        <state line="17" column="8" selection-start="565" selection-end="565" vertical-scroll-proportion="0.6296296" vertical-offset="0" max-vertical-offset="459" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/out/artifacts/AdminPanel/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="17" selection-start="0" selection-end="226" vertical-scroll-proportion="0.13654618" vertical-offset="0" max-vertical-offset="498">
+        <state line="4" column="17" selection-start="0" selection-end="226" vertical-scroll-proportion="0.13654618" vertical-offset="0" max-vertical-offset="498" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminPanel/web/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/My program/Tomcat/apache-tomcat-7.0.52/lib/struts/commons-chain-1.2.jar!/org/apache/commons/chain/impl/ContextBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="28" selection-start="990" selection-end="990" vertical-scroll-proportion="0.0" vertical-offset="299" max-vertical-offset="2227" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminPanel/web/panel.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="211" selection-end="211" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/chain/commands/ExceptionCatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1615" selection-end="1615" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="3196" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/commons-chain-1.2-sources.jar!/org/apache/commons/chain/generic/LookupCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="304" column="0" selection-start="9406" selection-end="9406" vertical-scroll-proportion="0.0" vertical-offset="4181" max-vertical-offset="6766">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/My program/Tomcat/apache-tomcat-7.0.52/lib/struts/commons-logging-1.0.4.jar!/org/apache/commons/logging/impl/Jdk14Logger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="19" selection-start="1643" selection-end="1643" vertical-scroll-proportion="-8.52" vertical-offset="484" max-vertical-offset="952" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/chain/commands/ActionCommandBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="1838" selection-end="1838" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="952">
+          <folding>
+            <element signature="e#0#1895#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/chain/commands/servlet/ExecuteAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="0" selection-start="2455" selection-end="2455" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/chain/commands/AbstractExecuteAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="0" selection-start="2670" selection-end="2670" vertical-scroll-proportion="0.0" vertical-offset="618" max-vertical-offset="1275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/chain/contexts/ActionContextBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="216" column="0" selection-start="6376" selection-end="6376" vertical-scroll-proportion="0.0" vertical-offset="2913" max-vertical-offset="8823">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/action/ActionServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="339" column="0" selection-start="13924" selection-end="13924" vertical-scroll-proportion="0.0" vertical-offset="4290" max-vertical-offset="31348">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/commons-chain-1.2-sources.jar!/org/apache/commons/chain/impl/ContextBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="339" column="0" selection-start="10849" selection-end="10849" vertical-scroll-proportion="0.0" vertical-offset="5072" max-vertical-offset="12954">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/chain/contexts/ContextWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="0" selection-start="2512" selection-end="2512" vertical-scroll-proportion="0.43657142" vertical-offset="638" max-vertical-offset="1513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/My program/Java/jdk1.7.0_45/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1656" column="18" selection-start="69657" selection-end="69657" vertical-scroll-proportion="-1.36" vertical-offset="28152" max-vertical-offset="53329">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebProject/src/hibernate/GetRecords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="42" selection-start="479" selection-end="1092" vertical-scroll-proportion="0.4071856" vertical-offset="0" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/commons-chain-1.2-sources.jar!/org/apache/commons/chain/impl/ChainBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="195" column="0" selection-start="5862" selection-end="5862" vertical-scroll-proportion="0.0" vertical-offset="2804" max-vertical-offset="3961">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/struts/extras/src/main/java/org/apache/struts/actions/DispatchAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="50" selection-start="3947" selection-end="3947" vertical-scroll-proportion="0.0" vertical-offset="866" max-vertical-offset="5950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/struts/extras/src/main/java/org/apache/struts/actions/BaseAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="43" selection-start="1216" selection-end="1216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/chain/commands/servlet/CreateAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="0" selection-start="3115" selection-end="3115" vertical-scroll-proportion="0.0" vertical-offset="652" max-vertical-offset="1275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/chain/commands/AbstractCreateAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="0" selection-start="3560" selection-end="3560" vertical-scroll-proportion="0.0" vertical-offset="1111" max-vertical-offset="1768">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminPanel/src/panel/FormLogon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="23" selection-start="165" selection-end="169" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AdminPanel/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="7" selection-start="591" selection-end="591" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="459">
+        <state line="10" column="79" selection-start="385" selection-end="385" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="459">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdminPanel/web/style.css">
+    <entry file="file://$PROJECT_DIR$/Libraries/struts/core/src/main/java/org/apache/struts/action/Action.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="1" selection-start="226" selection-end="226" vertical-scroll-proportion="0.35355285" vertical-offset="0" max-vertical-offset="577">
+        <state line="97" column="0" selection-start="3912" selection-end="3912" vertical-scroll-proportion="0.0" vertical-offset="917" max-vertical-offset="9010">
+          <folding>
+            <element signature="e#4267#4268#0" expanded="true" />
+            <element signature="e#4363#4364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminPanel/web/WEB-INF/struts-config.xml">
+      <provider editor-type-id="com.intellij.struts.diagram.DiagramEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="32" selection-start="429" selection-end="429" vertical-scroll-proportion="-8.84" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebProject/web/WEB-INF/struts-config.xml">
+      <provider editor-type-id="com.intellij.struts.diagram.DiagramEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="32" selection-start="303" selection-end="303" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebProject/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="21" selection-start="440" selection-end="566" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminPanel/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="25" selection-start="529" selection-end="529" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminPanel/src/panel/Logon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="1055" selection-end="1055" vertical-scroll-proportion="0.7071057" vertical-offset="0" max-vertical-offset="577">
           <folding />
         </state>
       </provider>
@@ -1079,7 +1278,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web</last-edited>
+          <last-edited>Web (AdminPanel)|Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1091,7 +1290,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>struts</last-edited>
+          <last-edited>hibernate</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1115,7 +1314,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>UserInterface</last-edited>
+          <last-edited>AdminPanel</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1139,7 +1338,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>lib</last-edited>
+          <last-edited>struts</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

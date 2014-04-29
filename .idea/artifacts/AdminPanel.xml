@@ -6,6 +6,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="AdminPanel" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="application" name="struts" />
+        </element>
       </element>
       <element id="javaee-facet-resources" facet="AdminPanel/web/Web" />
     </root>
