@@ -5,9 +5,27 @@
 		  http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
            version="2.5">
 
+    <servlet>
+        <servlet-name>Action</servlet-name>
+        <servlet-class>org.apache.struts.action.ActionServlet</servlet-class>
+        <init-param>
+            <param-name>content</param-name>
+            <param-value>UFT-8</param-value>
+        </init-param>
+        <init-param>
+            <param-name>charEncoding</param-name>
+            <param-value>UFT-8</param-value>
+        </init-param>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>Action</servlet-name>
+        <url-pattern>*.do</url-pattern>
+    </servlet-mapping>
+    
     <!-- The default error page -->
-    <error-page>
-        <exception-type>java.lang.Exception</exception-type>
-        <location>/Error.jsp</location>
-    </error-page>
+    <!--<error-page>-->
+        <!--<exception-type>java.lang.Exception</exception-type>-->
+        <!--<location>/Error.jsp</location>-->
+    <!--</error-page>-->
 </web-app>

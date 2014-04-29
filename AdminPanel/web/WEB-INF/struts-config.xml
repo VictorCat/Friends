@@ -3,7 +3,17 @@
         "http://struts.apache.org/dtds/struts-config_1_3.dtd">
 
 <struts-config>
-    <action-mappings>
+    <form-beans>
+        <form-bean name="Logon" type="panel.FormLogon"/>
+    </form-beans>
 
+    <action-mappings>
+        <action path="/logon"
+                type="panel.Logon"
+                scope="session"
+                parameter="start"
+                name="Logon">
+                <forward name = "successful" path="/panel.jsp" />
+        </action>
     </action-mappings>
 </struts-config>
