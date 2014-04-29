@@ -8,6 +8,15 @@ import org.apache.struts.action.ActionForm;
 public class FormLogon extends ActionForm {
     private String name;
     private String password;
+    private String status;
+
+    public String getStatus() {
+        return status;
+    }
+
+    public void setStatus(String status) {
+        this.status = status;
+    }
 
     public String getName() {
         return name;
