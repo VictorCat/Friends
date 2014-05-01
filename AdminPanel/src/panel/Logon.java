@@ -17,8 +17,6 @@ public class Logon extends BaseAction {
     private static final String  FORWARD = "successful";
     private static final String  name = "admin";
     private static final String  password = "admin";
-    private int b;
-    private int a;
 
     @Override
     /**
