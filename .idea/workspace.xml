@@ -163,7 +163,7 @@
       <file leaf-file-name="panel.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AdminPanel/web/panel.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="14" selection-start="47" selection-end="47" vertical-scroll-proportion="0.068686865" vertical-offset="0" max-vertical-offset="495">
+            <state line="3" column="11" selection-start="59" selection-end="59" vertical-scroll-proportion="0.1030303" vertical-offset="0" max-vertical-offset="495">
               <folding />
             </state>
           </provider>
@@ -795,7 +795,7 @@
       <workItem from="1398789338834" duration="2273000" />
       <workItem from="1398796268630" duration="4845000" />
       <workItem from="1398866264450" duration="6876000" />
-      <workItem from="1398934307624" duration="4142000" />
+      <workItem from="1398934307624" duration="4352000" />
     </task>
     <task id="LOCAL-00001" summary="Добавлен заголовок">
       <created>1398595971966</created>
@@ -849,7 +849,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32658000" />
+    <option name="totallyTimeSpent" value="32868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1230,7 +1230,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AdminPanel/web/panel.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="14" selection-start="47" selection-end="47" vertical-scroll-proportion="0.068686865" vertical-offset="0" max-vertical-offset="495">
+        <state line="3" column="11" selection-start="59" selection-end="59" vertical-scroll-proportion="0.1030303" vertical-offset="0" max-vertical-offset="495">
           <folding />
         </state>
       </provider>
