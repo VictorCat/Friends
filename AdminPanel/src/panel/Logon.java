@@ -14,6 +14,7 @@ public class Logon extends DispatchAction {
     private static final String  FORWARD = "successful";
     private static final String  name = "admin";
     private static final String  password = "admin";
+    private int a;
 
     @Override
     protected String getMethodName(ActionMapping mapping, ActionForm form, HttpServletRequest request, HttpServletResponse response, String parameter) throws Exception {
