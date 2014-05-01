@@ -11,6 +11,7 @@
     <title></title>
 </head>
 <body>
-
+    Вы залогиненый пользователь!
+<a href="${pageContext.request.contextPath}/logout.do">Выход</a>
 </body>
 </html>
