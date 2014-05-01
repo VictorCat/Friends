@@ -15,7 +15,7 @@ public class Page extends BaseAction {
 
     @Override
     public ActionForward execute(ActionMapping mapping, ActionForm form, HttpServletRequest request, HttpServletResponse response) throws Exception {
-        if (LogonUser.logon(request)){
+         if (LogonUser.logon(request)){
 
             return mapping.findForward("successful");
         }else {
